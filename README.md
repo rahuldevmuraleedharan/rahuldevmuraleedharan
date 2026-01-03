@@ -1,8 +1,8 @@
 <div align="center">
 
-# ⚡ Rahuldev Nair | Electrical Engineer ⚡
+# ⚡ Hi, I'm Rahuldev Nair  ⚡
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=800&lines=Electrical+Engineer+%7C+Control+Systems;Power+Electronics+Enthusiast;MATLAB+Simulation+Expert;Building+Efficient+Energy+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7B93E&center=true&vCenter=true&width=800&lines=Electrical+Engineer+%7C+Automation+%26+Control;Renewable+Energy;MATLAB+Simulation+%7C+Embedded+Systems" alt="Typing SVG" />
 
 </div>
 
