@@ -104,7 +104,7 @@ I'm an **Electrical Engineering postgraduate** specializing in **Automatic Contr
 | Project | Duration | Key Technologies | Highlights |
 |---------|----------|------------------|------------|
 | 🌞 **PV Module Efficiency Optimization** | Jan 2023 - Jan 2024 | MATLAB R2024a, Meta-heuristic Algorithms, Solar PV Systems | Comparative analysis of 5 MPPT techniques under 6 shading scenarios. DSO achieved highest performance with 84.5% ideal solution closeness |
-| ⚡ **TRIAC Brightness Controller** | Jan 2022 - Jan 2023 | AT89C52, TRIAC, Embedded C, Power Electronics | Single-phase AC load control with firing-angle logic. Complete technical implementation from design to testing |
+| ⚡ **TRIAC Brightness Controller** | - | AT89C52, TRIAC, Embedded C, Power Electronics | Single-phase AC load control with firing-angle logic. Complete technical implementation from design to testing |
 </div>
 
 ---
